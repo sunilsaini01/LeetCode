@@ -3,10 +3,9 @@ This repository contains my solutions to LeetCode Data Structures and Algorithms
 # 📂 Structure
 Each problem is organized in its own folder:
 
- /1-two-sum
+  /1-two-sum
  /1013-fibonacci-number
- /121-best-time-to-buy-and-sell-stock
-Each folder includes:
 
-Pyhton solution file
-Readme
+Each folder includes:
+    Pyhton solution file
+    Readme
