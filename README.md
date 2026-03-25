@@ -1,11 +1,18 @@
 # 🚀 LeetCode DSA Solutions (Python)
 This repository contains my solutions to LeetCode Data Structures and Algorithms problems in Python.
 # 📂 Structure
-Each problem is organized in its own folder:
 
-  /1-two-sum
- /1013-fibonacci-number
 
-Each folder includes:
-    Pyhton solution file
-    Readme
+
+
+
+
+
+
+# 🧠 Topics
+Arrays • Linked List • Trees • Graphs • DP • Greedy • Binary Search • Backtracking
+
+# 🎯 Goal
+To improve problem-solving skills and build strong DSA fundamentals for interviews.
+
+⭐ Feel free to explore and use for learning!
