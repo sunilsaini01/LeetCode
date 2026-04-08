@@ -36,8 +36,17 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/sunilsaini01/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/sunilsaini01/Leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0292-nim-game](https://github.com/sunilsaini01/Leetcode/tree/main/0292-nim-game/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/sunilsaini01/Leetcode/tree/main/0175-combine-two-tables/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/sunilsaini01/Leetcode/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/sunilsaini01/Leetcode/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
