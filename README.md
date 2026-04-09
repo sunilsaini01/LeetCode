@@ -38,6 +38,7 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | [0009-palindrome-number](https://github.com/sunilsaini01/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0292-nim-game](https://github.com/sunilsaini01/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [1025-divisor-game](https://github.com/sunilsaini01/Leetcode/tree/main/1025-divisor-game/) | Easy |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/sunilsaini01/Leetcode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,4 +57,5 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/sunilsaini01/Leetcode/tree/main/1025-divisor-game/) | Easy |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/sunilsaini01/Leetcode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 <!---LeetCode Topics End-->
