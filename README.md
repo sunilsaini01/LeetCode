@@ -39,10 +39,7 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | [0292-nim-game](https://github.com/sunilsaini01/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [1025-divisor-game](https://github.com/sunilsaini01/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/sunilsaini01/Leetcode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
-## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0175-combine-two-tables](https://github.com/sunilsaini01/Leetcode/tree/main/0175-combine-two-tables/) | Easy |
+
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
