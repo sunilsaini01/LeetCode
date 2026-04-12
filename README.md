@@ -38,6 +38,7 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | [0009-palindrome-number](https://github.com/sunilsaini01/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0258-add-digits](https://github.com/sunilsaini01/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0292-nim-game](https://github.com/sunilsaini01/Leetcode/tree/main/0292-nim-game/) | Easy |
+| [0509-fibonacci-number](https://github.com/sunilsaini01/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/sunilsaini01/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/sunilsaini01/Leetcode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 ## Brainteaser
@@ -53,6 +54,7 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0509-fibonacci-number](https://github.com/sunilsaini01/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/sunilsaini01/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/sunilsaini01/Leetcode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 ## Simulation
@@ -63,4 +65,12 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/sunilsaini01/Leetcode/tree/main/0258-add-digits/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/sunilsaini01/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/sunilsaini01/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
