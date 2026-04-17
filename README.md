@@ -37,6 +37,7 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | [0007-reverse-integer](https://github.com/sunilsaini01/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/sunilsaini01/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0070-climbing-stairs](https://github.com/sunilsaini01/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0172-factorial-trailing-zeroes](https://github.com/sunilsaini01/Leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0258-add-digits](https://github.com/sunilsaini01/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0292-nim-game](https://github.com/sunilsaini01/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [0509-fibonacci-number](https://github.com/sunilsaini01/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
