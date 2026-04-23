@@ -43,6 +43,7 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | [0509-fibonacci-number](https://github.com/sunilsaini01/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/sunilsaini01/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/sunilsaini01/Leetcode/tree/main/1492-the-kth-factor-of-n/) | Medium |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/sunilsaini01/Leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/sunilsaini01/Leetcode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
