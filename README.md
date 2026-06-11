@@ -41,6 +41,7 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | [0172-factorial-trailing-zeroes](https://github.com/sunilsaini01/Leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0258-add-digits](https://github.com/sunilsaini01/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0292-nim-game](https://github.com/sunilsaini01/Leetcode/tree/main/0292-nim-game/) | Easy |
+| [0367-valid-perfect-square](https://github.com/sunilsaini01/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/sunilsaini01/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/sunilsaini01/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/sunilsaini01/Leetcode/tree/main/1492-the-kth-factor-of-n/) | Medium |
@@ -85,4 +86,5 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/sunilsaini01/Leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0367-valid-perfect-square](https://github.com/sunilsaini01/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 <!---LeetCode Topics End-->
