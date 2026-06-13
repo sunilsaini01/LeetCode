@@ -92,6 +92,7 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | [0268-missing-number](https://github.com/sunilsaini01/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/sunilsaini01/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/sunilsaini01/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/sunilsaini01/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +100,7 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | [0035-search-insert-position](https://github.com/sunilsaini01/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/sunilsaini01/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/sunilsaini01/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/sunilsaini01/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0912-sort-an-array](https://github.com/sunilsaini01/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
