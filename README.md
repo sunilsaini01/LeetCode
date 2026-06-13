@@ -40,6 +40,7 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | [0070-climbing-stairs](https://github.com/sunilsaini01/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/sunilsaini01/Leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0258-add-digits](https://github.com/sunilsaini01/Leetcode/tree/main/0258-add-digits/) | Easy |
+| [0268-missing-number](https://github.com/sunilsaini01/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/sunilsaini01/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [0367-valid-perfect-square](https://github.com/sunilsaini01/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/sunilsaini01/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
@@ -88,6 +89,7 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sunilsaini01/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sunilsaini01/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/sunilsaini01/Leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0268-missing-number](https://github.com/sunilsaini01/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/sunilsaini01/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/sunilsaini01/Leetcode/tree/main/0704-binary-search/) | Easy |
 ## Array
@@ -95,6 +97,7 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sunilsaini01/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sunilsaini01/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0268-missing-number](https://github.com/sunilsaini01/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/sunilsaini01/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0912-sort-an-array](https://github.com/sunilsaini01/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Divide and Conquer
@@ -104,6 +107,7 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/sunilsaini01/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0912-sort-an-array](https://github.com/sunilsaini01/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -125,4 +129,12 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/sunilsaini01/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/sunilsaini01/Leetcode/tree/main/0268-missing-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/sunilsaini01/Leetcode/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
