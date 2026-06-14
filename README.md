@@ -39,6 +39,7 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | [0069-sqrtx](https://github.com/sunilsaini01/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/sunilsaini01/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/sunilsaini01/Leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+| [0231-power-of-two](https://github.com/sunilsaini01/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/sunilsaini01/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/sunilsaini01/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/sunilsaini01/Leetcode/tree/main/0292-nim-game/) | Easy |
@@ -77,6 +78,7 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/sunilsaini01/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/sunilsaini01/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -138,5 +140,6 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/sunilsaini01/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/sunilsaini01/Leetcode/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
