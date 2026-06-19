@@ -99,6 +99,7 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sunilsaini01/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sunilsaini01/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sunilsaini01/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/sunilsaini01/Leetcode/tree/main/0066-plus-one/) | Easy |
@@ -144,4 +145,8 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/sunilsaini01/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/sunilsaini01/Leetcode/tree/main/0268-missing-number/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sunilsaini01/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
