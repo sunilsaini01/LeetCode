@@ -151,4 +151,16 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sunilsaini01/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sunilsaini01/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sunilsaini01/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sunilsaini01/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
