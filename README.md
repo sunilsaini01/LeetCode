@@ -71,6 +71,7 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/sunilsaini01/Leetcode/tree/main/0258-add-digits/) | Easy |
+| [1929-concatenation-of-array](https://github.com/sunilsaini01/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | [0704-binary-search](https://github.com/sunilsaini01/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sunilsaini01/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0912-sort-an-array](https://github.com/sunilsaini01/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [1929-concatenation-of-array](https://github.com/sunilsaini01/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
