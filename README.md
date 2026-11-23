@@ -156,6 +156,7 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sunilsaini01/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0344-reverse-string](https://github.com/sunilsaini01/Leetcode/tree/main/0344-reverse-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,4 +176,8 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/sunilsaini01/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/sunilsaini01/Leetcode/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
