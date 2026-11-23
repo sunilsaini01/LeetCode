@@ -109,6 +109,7 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | [0704-binary-search](https://github.com/sunilsaini01/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sunilsaini01/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0912-sort-an-array](https://github.com/sunilsaini01/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/sunilsaini01/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/sunilsaini01/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sunilsaini01/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Divide and Conquer
