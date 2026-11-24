@@ -124,6 +124,7 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/sunilsaini01/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/sunilsaini01/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/sunilsaini01/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/sunilsaini01/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0912-sort-an-array](https://github.com/sunilsaini01/Leetcode/tree/main/0912-sort-an-array/) | Medium |
@@ -152,6 +153,7 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/sunilsaini01/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/sunilsaini01/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/sunilsaini01/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/sunilsaini01/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Bit Manipulation
@@ -186,5 +188,6 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/sunilsaini01/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/sunilsaini01/Leetcode/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
