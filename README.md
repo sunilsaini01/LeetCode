@@ -105,6 +105,7 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sunilsaini01/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sunilsaini01/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/sunilsaini01/Leetcode/tree/main/0066-plus-one/) | Easy |
+| [0217-contains-duplicate](https://github.com/sunilsaini01/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/sunilsaini01/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/sunilsaini01/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0704-binary-search](https://github.com/sunilsaini01/Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -122,6 +123,7 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/sunilsaini01/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/sunilsaini01/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/sunilsaini01/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0912-sort-an-array](https://github.com/sunilsaini01/Leetcode/tree/main/0912-sort-an-array/) | Medium |
@@ -149,6 +151,7 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/sunilsaini01/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/sunilsaini01/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/sunilsaini01/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Bit Manipulation
