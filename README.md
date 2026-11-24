@@ -48,6 +48,7 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | [0509-fibonacci-number](https://github.com/sunilsaini01/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/sunilsaini01/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/sunilsaini01/Leetcode/tree/main/1492-the-kth-factor-of-n/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/sunilsaini01/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/sunilsaini01/Leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/sunilsaini01/Leetcode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 ## Brainteaser
@@ -111,6 +112,7 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | [0912-sort-an-array](https://github.com/sunilsaini01/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sunilsaini01/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/sunilsaini01/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/sunilsaini01/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/sunilsaini01/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sunilsaini01/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Divide and Conquer
@@ -143,10 +145,12 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/sunilsaini01/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/sunilsaini01/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/sunilsaini01/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/sunilsaini01/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
