@@ -172,6 +172,7 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunilsaini01/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/sunilsaini01/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/sunilsaini01/Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/sunilsaini01/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,4 +198,9 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | [0125-valid-palindrome](https://github.com/sunilsaini01/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/sunilsaini01/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/sunilsaini01/Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/sunilsaini01/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0680-valid-palindrome-ii](https://github.com/sunilsaini01/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 <!---LeetCode Topics End-->
