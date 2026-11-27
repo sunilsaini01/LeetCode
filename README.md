@@ -94,6 +94,7 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sunilsaini01/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sunilsaini01/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/sunilsaini01/Leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunilsaini01/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/sunilsaini01/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/sunilsaini01/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/sunilsaini01/Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -105,6 +106,7 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sunilsaini01/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sunilsaini01/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/sunilsaini01/Leetcode/tree/main/0066-plus-one/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunilsaini01/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/sunilsaini01/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/sunilsaini01/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/sunilsaini01/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
@@ -166,6 +168,7 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sunilsaini01/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/sunilsaini01/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunilsaini01/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0344-reverse-string](https://github.com/sunilsaini01/Leetcode/tree/main/0344-reverse-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
