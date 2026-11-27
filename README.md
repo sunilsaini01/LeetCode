@@ -109,6 +109,7 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunilsaini01/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/sunilsaini01/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/sunilsaini01/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/sunilsaini01/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/sunilsaini01/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0704-binary-search](https://github.com/sunilsaini01/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sunilsaini01/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -169,6 +170,7 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sunilsaini01/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/sunilsaini01/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunilsaini01/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0283-move-zeroes](https://github.com/sunilsaini01/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/sunilsaini01/Leetcode/tree/main/0344-reverse-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
